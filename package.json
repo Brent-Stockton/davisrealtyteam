@@ -10,15 +10,18 @@
   },
   "dependencies": {
     "@sendgrid/mail": "^8.1.0",
+    "@types/simple-icons": "^5.21.1",
     "axios": "^1.6.2",
+    "emailjs": "^4.0.3",
+    "emailjs-com": "^3.2.0",
     "framer-motion": "^10.16.5",
     "next": "^14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-hook-form": "^7.48.2",
+    "react-hook-form": "^7.53.0",
     "react-scroll": "^1.9.0",
-    "simple-icons": "^10.4.0",
-    "sweetalert2": "^11.6.13"
+    "simple-icons": "^13.10.0",
+    "sweetalert2": "^11.14.0"
   },
   "devDependencies": {
     "@heroicons/react": "^1.0.6",

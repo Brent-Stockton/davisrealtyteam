@@ -4,9 +4,9 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Shoes For Soldiers",
+  title: "Davis Realty Team",
   description:
-    "Empowering Our Soldiers, One Step at a Time - Join Us in Making a Difference Through Every Home Loan Closed.",
+    "The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free.",
 };
 
 export default function RootLayout({
@@ -21,18 +21,18 @@ export default function RootLayout({
         <meta name="description" content={metadata.description} />
         <meta
           name="description"
-          content="Empowering Our Soldiers, One Step at a Time - Join Us in Making a Difference Through Every Home Loan Closed."
+          content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="www.shoesforsoldiers.org" />
-        <meta property="og:title" content="Shoes For Soldiers" />
+        <meta property="og:url" content="www.davisrealtyteam.com" />
+        <meta property="og:title" content="Davis Realty Team" />
         <meta
           property="og:description"
-          content="Empowering Our Soldiers, One Step at a Time - Join Us in Making a Difference Through Every Home Loan Closed."
+          content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
         />
         <meta property="og:image" content="Your Image URL" />
-        <link rel="icon" href="/images/logo.ico" />
+        <link rel="icon" href="/images/favicon.ico" />
       </Head>
       <body className={inter.className}>{children}</body>
     </html>

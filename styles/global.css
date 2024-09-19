@@ -42,3 +42,9 @@ html {
 #contact {
   scroll-margin-top: 100px;
 }
+
+/* Custom HomeBot Widget Title Style */
+#homebot_homeowner h1,
+#homebot_homeowner_navbar h1 {
+  color: white !important;
+}

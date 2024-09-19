@@ -8,32 +8,29 @@ interface ImageProps {
 
 const Gallery = () => {
   const images: ImageProps[] = [
-    { src: "/images/gallery1.jpeg", alt: "Description of Image 1" },
-    { src: "/images/gallery2.jpeg", alt: "Description of Image 2" },
-    { src: "/images/gallery3.jpeg", alt: "Description of Image 3" },
-    { src: "/images/gallery4.jpeg", alt: "Description of Image 4" },
-    { src: "/images/crowd.jpeg", alt: "Description of Image 5" },
-    { src: "/images/gallery6.jpeg", alt: "Description of Image 6" },
-    { src: "/images/gallery7.jpeg", alt: "Description of Image 7" },
-    { src: "/images/gallery8.jpeg", alt: "Description of Image 8" },
+    { src: "/images/image-1.JPG", alt: "Gallery Image 1" },
+    { src: "/images/image-2.JPG", alt: "Gallery Image 2" },
+    { src: "/images/image-3.jpeg", alt: "Gallery Image 3" },
+    { src: "/images/image-4.jpeg", alt: "Gallery Image 4" },
+    { src: "/images/image-5.jpeg", alt: "Gallery Image 5" },
+    { src: "/images/image-6.jpg", alt: "Gallery Image 6" },
+    { src: "/images/shain-portrait.jpg", alt: "Shain Davis Portrait" },
+    { src: "/images/shain-wife.jpg", alt: "Cynthia Davis Portrait" },
   ];
 
   return (
-    <div className="lg:h-screen flex flex-col items-center justify-center p-4 bg-white">
-      <h2 className="text-[36px] font-bold mb-6 font-army text-red-900 hover:text-black">
-        Boots on the Ground
+    <div className="flex flex-col items-center justify-center p-8 bg-[#c3c2bd]">
+      <h2 className="text-2xl font-army text-[#ab7552] font-bold mb-6 hover:text-white">
+        Gallery
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-7xl mx-auto">
         {images.map((image, index) => (
-          <div
-            key={index}
-            className="w-full h-72 relative transform hover:scale-105 transition-transform duration-300"
-          >
+          <div key={index} className="relative overflow-hidden rounded-lg shadow-lg">
             <img
               src={image.src}
               alt={image.alt}
-              className="object-cover w-full h-full rounded-lg shadow-2xl border"
-              style={{ boxShadow: "rgba(0, 0, 0, 0.45) 0px 25px 20px -20px" }}
+              className="w-full h-full object-cover border-2 border-[#ab7552] transition-transform duration-300 hover:scale-105 rounded-lg"
+              style={{ boxShadow: "rgba(0, 0, 0, 0.3) 0px 15px 20px -15px" }}
             />
           </div>
         ))}
@@ -41,4 +38,5 @@ const Gallery = () => {
     </div>
   );
 };
+
 export default Gallery;

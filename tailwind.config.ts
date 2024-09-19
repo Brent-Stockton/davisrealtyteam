@@ -26,7 +26,8 @@ const config: Config = {
         "slate-blue": "#424756",
       },
       fontFamily: {
-        army: ["Bebas Neue", "sans-serif"], // Add this line
+        army: ["Bebas Neue", "sans-serif"],
+        elegant: ['"Noto Serif Display"', "Sans-serif"],
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

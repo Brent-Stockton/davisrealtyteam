@@ -1,47 +1,89 @@
+"use client";
 import Image from "next/image";
+import { useState, useEffect } from "react";
 
-const aboutUsText =
-  "We exist to serve those who continue to serve us.  Started as a small project to give back to local active duty service members has grown to giving all across the world.  Anywhere our uniformed men and women hang their hat, we can deliver help and support for their feet.Our founder, Shain Davis served as an active duty Soldier in the United States Army. Shain deployed to Afghanistan for 12 months in 2010.  Shain experienced a multitude of feet and ankle problems in which he struggled for years. After leaving the military, Shain's problems still existed.  He then took matters into his own hands and started his own research. Eventually landing on his feet as the problem.  Soon after founding Shoe for Soldiers to help active duty service members before they have the same problems Shain did. Shoes for Soldiers is an organization run by Soldiers... for Soldiers.  We will always be vigilant in our mission to be of the troops and for the troops.  With every donation and every dollar we are committed to making service members lives better.";
+interface WindowSize {
+  width: number | null;
+  height: number | null;
+}
+
+const shainBio = `
+  Born and raised in Ohio. My upbringing taught me a lot of what made me who I am today. 
+  I believe in doing the right thing even when others aren’t looking. I have morals that I am proud of and I love helping others. 
+  I served in the United States Army and did 1 tour in Afghanistan while my wife and kids waited for me to return home. 
+  I take pride in knowing that I was able to serve my country and now I’m able to serve in a different way that I believe to be making a difference 
+  with our Shoes For Soldiers nonprofit. As a married man and father, I know how to take care of people and I know it’s not always easy but always worth it. 
+  I have lived in Arizona since 2015 and love all that it has to offer.
+`;
+
+const cynthiaBio = `
+  I was born and raised in El Paso, Tx but, I always knew that I wouldn’t live there all my life. 
+  After becoming a mom, I had ambitions and goals of going finishing college and getting my Bachelor’s degree but I wanted more. 
+  So I decided to pursue my Masters degree. I am a care giver and want to help my family and others around me succeed and do better. 
+  I love what I do working at USAA full time while helping and supporting my husband. 
+  I too have lived here in Phoenix with my family since 2015, and even though I never planned on living here, 
+  I know it was the best decision we made because there are so many opportunities here for not only us but for our kids as well.
+`;
 
 const CallToAction = () => {
+  const [windowSize, setWindowSize] = useState<WindowSize>({
+    width: null,
+    height: null,
+  });
+
+  useEffect(() => {
+    const handleResize = () => {
+      setWindowSize({
+        width: window.innerWidth,
+        height: window.innerHeight,
+      });
+    };
+
+    window.addEventListener("resize", handleResize);
+    handleResize();
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
   return (
-    <div className="flex items-center justify-center bg-cover bg-center bg-white overflow-hidden p-4 md:p-12 lg:p-0">
-      <div
-        className="flex flex-col items-center justify-center max-w-[1000px] space-y-6 my-4  bg-opacity-90 p-6 rounded-lg border-spacing-1 bg-gradient-to-b from-red-900 to-black"
-        style={{
-          boxShadow: "rgba(0, 0, 0, 0.56) 0px 22px 70px 4px",
-        }}
-      >
-        <div className="flex flex-row items-center justify-center md:space-x-4">
-          <Image
-            alt="army1"
-            width={400}
-            height={400}
-            src="/images/about-shoe.jpeg"
-            className="rounded-lg shadow-lg transition duration-300 hover:scale-105 hidden lg:flex"
-          />
-          <Image
-            alt="army2"
-            width={400}
-            height={400}
-            src="/images/crowd.jpeg"
-            className="rounded-lg shadow-lg transition duration-300 hover:scale-105"
-          />
-          <Image
-            alt="army3"
-            width={400}
-            height={400}
-            src="/images/about-stand.jpeg"
-            className="rounded-lg shadow-lg transition duration-300 hover:scale-105 hidden lg:flex"
-          />
+    <div className="flex flex-col items-center justify-center bg-[#c3c2bd] p-8 border-t border-b border-[#ab7552]">
+      <h2 className="text-2xl font-army text-[#ab7552] font-bold mb-6 hover:text-white">
+        Meet Davis Realty Team
+      </h2>
+      <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-32 w-full md:w-10/12">
+        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-[500px] items-center">
+          <div className="">
+            <Image
+              alt="Cynthia"
+              width={500}
+              height={300}
+              src="/images/shain-portrait.jpg"
+              className="object-contain rounded-lg"
+            />
+          </div>
+          <div className="text-black w-full px-4 py-2 h-[40%] flex flex-col justify-center">
+            <h2 className="text-md font-semibold mb-2 text-center">
+              Shain Davis
+            </h2>
+            <p className="text-xs leading-relaxed text-left">{shainBio}</p>
+          </div>
         </div>
-        <div className="text-white">
-          <p className="font-bold font-primary text-center text-[26px] md:text-[36px] font-army">
-            Mission Briefing: Our Story
-          </p>
-          <p className="font-secondary text-left text-[12px] md:text-[18px]">
-            {aboutUsText}
-          </p>
+
+        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-[500px] items-center">
+          <div className="">
+            <Image
+              alt="Cynthia"
+              width={500}
+              height={300}
+              src="/images/shain-wife.jpg"
+              className="object-contain rounded-lg"
+            />
+          </div>
+          <div className="text-black w-full px-4 py-2 h-[40%] flex flex-col justify-center">
+            <h2 className="text-md font-semibold mb-2 text-center">
+              Cynthia Davis
+            </h2>
+            <p className="text-xs leading-relaxed text-left">{cynthiaBio}</p>
+          </div>
         </div>
       </div>
     </div>

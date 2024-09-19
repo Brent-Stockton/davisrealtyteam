@@ -33,7 +33,12 @@ const ContactForm = () => {
     setLoading(true);
 
     try {
-      await sendEmail(data);
+      // Send only name, email, and message to EmailJS
+      await sendEmail({
+        name: data.name,
+        email: data.email,
+        message: data.message,
+      });
 
       Swal.fire({
         icon: "success",
@@ -52,26 +57,29 @@ const ContactForm = () => {
   };
 
   return (
-    <section className="flex items-center justify-center h-3/4-screen bg-white p-4 md:p-12 flex-col">
-      <h2 className="text-[36px] font-bold mb-6 font-army text-red-900 hover:text-black">
-        Report In: Your Line to Us
-      </h2>
+    <section className="flex items-center justify-center h-3/4-screen bg-[#c3c2bd] p-4 md:p-12 flex-col border-t border-b border-[#ab7552]">
+      <div className="p-2 border border-[#ab7552] mb-12 flex items-center justify-center hover:bg-[#ab7552]">
+        <h2 className="text-[36px] font-bold font-army text-[#ab7552] hover:text-white">
+          Sell With Us
+        </h2>
+      </div>
       <form
         onSubmit={handleSubmit(onSubmit)}
-        className=" w-full md:w-1/2 bg-red-900 p-4 rounded-lg shadow-lg items-center"
+        className="w-full md:w-1/2 bg-[#ab7552] border-[#ab7552] border p-4 rounded-lg shadow-lg items-center"
         style={{
           boxShadow: "rgba(0, 0, 0, 0.45) 0px 25px 20px -20px",
         }}
       >
         <div className="flex justify-center mb-6">
           <Image
-            src="/images/LogoSoldier.png"
+            src="/images/logo-black.svg"
             alt="Logo"
             width={100}
             height={100}
-            className="rounded-full"
+            className="!text-white"
           />
         </div>
+
         <div className="mb-4">
           <label
             htmlFor="name"
@@ -154,7 +162,7 @@ const ContactForm = () => {
 
         <div className="flex items-center justify-between">
           <button
-            className="bg-black hover:bg-white text-white hover:text-black text-[20px] tracking-wider px-8 py-4 font-bold font-army rounded shadow-lg hover:scale-105 transition-transform mx-auto"
+            className="bg-[#ab7552] hover:bg-white text-white text-[20px] tracking-wider px-8 py-4 font-bold font-army rounded shadow-lg hover:scale-105 transition-transform mx-auto border border-white hover:text-[#ab7552]"
             type="submit"
           >
             Send Message
