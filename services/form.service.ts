@@ -5,9 +5,13 @@ export const sendEmail = async (data: {
   email: string;
   message: string;
 }) => {
-  const serviceID = "service_z2yllxr";
-  const templateID = "template_ys1w805";
-  const userID = "4noXVBrUk5ALs0qDI";
+  const serviceID = process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID;
+  const templateID = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID;
+  const userID = process.env.NEXT_PUBLIC_EMAILJS_USER_ID;
+
+  if (!serviceID || !templateID || !userID) {
+    throw new Error("EmailJS service not properly configured.");
+  }
 
   const templateParams = {
     to_name: "Davis Realty Team",
