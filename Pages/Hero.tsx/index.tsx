@@ -4,10 +4,9 @@ import { useState, useEffect } from "react";
 
 const Hero = () => {
   const [windowSize, setWindowSize] = useState({
-    width: 0,  
+    width: 0,
     height: 0,
   });
-
 
   useEffect(() => {
     const handleResize = () => {
@@ -68,7 +67,7 @@ const Hero = () => {
                       y.src = b;
                       x.parentNode.insertBefore(y, x)
                     })('Homebot', 'https://embed.homebotapp.com/lgw/v1/widget.js');
-                    Homebot('#homebot_homeowner', 'ea5c1f8620c2e937ea1762d1532a9b454a8cfcb45a9cdab5');
+                    Homebot('#homebot_homeowner', 'e95177fcc094be0786dc2891ceafeab41e51026f78a7b97f');
                   </script>
                 `,
               }}

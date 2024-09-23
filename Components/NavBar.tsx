@@ -71,7 +71,7 @@ const StickyNavbar = () => {
                 href="#contact"
                 className="block py-2 md:py-0 md:inline hover:text-white  transition duration-300 hover:scale-105 md:hover:scale-110"
               >
-                Sell with us
+                Partner with us
               </a>
             </div>
           </div>

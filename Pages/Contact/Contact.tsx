@@ -58,9 +58,9 @@ const ContactForm = () => {
 
   return (
     <section className="flex items-center justify-center h-3/4-screen bg-[#c3c2bd] p-4 md:p-12 flex-col border-t border-b border-[#ab7552]">
-      <div className="p-2 border border-[#ab7552] mb-12 flex items-center justify-center hover:bg-[#ab7552]">
-        <h2 className="text-[36px] font-bold font-army text-[#ab7552] hover:text-white">
-          Sell With Us
+      <div className="p-2 border border-[#ab7552] mb-12 flex items-center justify-center">
+        <h2 className="text-[36px] font-bold font-army text-[#ab7552]">
+          Partner With Us
         </h2>
       </div>
       <form

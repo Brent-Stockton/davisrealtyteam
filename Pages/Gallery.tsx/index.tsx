@@ -12,8 +12,8 @@ const Gallery = () => {
     { src: "/images/image-2.JPG", alt: "Gallery Image 2" },
     { src: "/images/image-3.jpeg", alt: "Gallery Image 3" },
     { src: "/images/image-4.jpeg", alt: "Gallery Image 4" },
-    { src: "/images/image-5.jpeg", alt: "Gallery Image 5" },
-    { src: "/images/image-6.jpg", alt: "Gallery Image 6" },
+    { src: "/images/gallery9.JPEG", alt: "Gallery Image 5" },
+    { src: "/images/gallery10.JPEG", alt: "Gallery Image 6" },
     { src: "/images/shain-portrait.jpg", alt: "Shain Davis Portrait" },
     { src: "/images/shain-wife.jpg", alt: "Cynthia Davis Portrait" },
   ];
@@ -25,7 +25,10 @@ const Gallery = () => {
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-7xl mx-auto">
         {images.map((image, index) => (
-          <div key={index} className="relative overflow-hidden rounded-lg shadow-lg">
+          <div
+            key={index}
+            className="relative overflow-hidden rounded-lg shadow-lg"
+          >
             <img
               src={image.src}
               alt={image.alt}

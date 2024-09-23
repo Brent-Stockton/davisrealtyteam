@@ -45,22 +45,22 @@ const CallToAction = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center bg-[#c3c2bd] p-8 border-t border-b border-[#ab7552]">
-      <h2 className="text-2xl font-army text-[#ab7552] font-bold mb-6 hover:text-white">
+    <div className="flex flex-col items-center justify-center bg-[#c3c2bd] p-4 md:p-8 border-t border-b border-[#ab7552]">
+      <h2 className="text-xl md:text-2xl font-army text-[#ab7552] font-bold mb-4 md:mb-6 hover:text-white text-center">
         Meet Davis Realty Team
       </h2>
-      <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-32 w-full md:w-10/12">
-        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-[500px] items-center">
+      <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-8 lg:space-x-32 w-full md:w-10/12">
+        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-full md:max-w-[500px] items-center">
           <div className="">
             <Image
               alt="Cynthia"
               width={500}
               height={300}
               src="/images/shain-portrait.jpg"
-              className="object-contain rounded-lg"
+              className="object-contain rounded-lg w-full"
             />
           </div>
-          <div className="text-black w-full px-4 py-2 h-[40%] flex flex-col justify-center">
+          <div className="text-black w-full px-4 py-4 h-auto flex flex-col justify-center">
             <h2 className="text-md font-semibold mb-2 text-center">
               Shain Davis
             </h2>
@@ -68,17 +68,17 @@ const CallToAction = () => {
           </div>
         </div>
 
-        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-[500px] items-center">
+        <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col w-full md:max-w-[500px] items-center">
           <div className="">
             <Image
               alt="Cynthia"
               width={500}
               height={300}
               src="/images/shain-wife.jpg"
-              className="object-contain rounded-lg"
+              className="object-contain rounded-lg w-full"
             />
           </div>
-          <div className="text-black w-full px-4 py-2 h-[40%] flex flex-col justify-center">
+          <div className="text-black w-full px-4 py-4 h-auto flex flex-col justify-center">
             <h2 className="text-md font-semibold mb-2 text-center">
               Cynthia Davis
             </h2>
