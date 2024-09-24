@@ -10,10 +10,10 @@ const Gallery = () => {
   const images: ImageProps[] = [
     { src: "/images/image-1.JPG", alt: "Gallery Image 1" },
     { src: "/images/image-2.JPG", alt: "Gallery Image 2" },
-    { src: "/images/image-3.jpeg", alt: "Gallery Image 3" },
+    { src: "/images/gallery3.jpeg", alt: "Gallery Image 3" },
     { src: "/images/image-4.jpeg", alt: "Gallery Image 4" },
     { src: "/images/gallery9.JPEG", alt: "Gallery Image 5" },
-    { src: "/images/gallery10.JPEG", alt: "Gallery Image 6" },
+    { src: "/images/couple.jpeg", alt: "Gallery Image 6" },
     { src: "/images/shain-portrait.jpg", alt: "Shain Davis Portrait" },
     { src: "/images/shain-wife.jpg", alt: "Cynthia Davis Portrait" },
   ];
