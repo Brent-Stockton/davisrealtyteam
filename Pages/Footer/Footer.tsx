@@ -21,7 +21,7 @@ const Footer = () => {
               style={whiteIconStyle}
             />
             <img
-              src="/images/realtor.jpeg"
+              src="/images/real.png"
               className="h-16 w-16 text-white"
               alt="Realtor"
               style={whiteIconStyle}

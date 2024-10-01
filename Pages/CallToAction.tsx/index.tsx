@@ -18,8 +18,8 @@ const shainBio = `
 
 const cynthiaBio = `
   I was born and raised in El Paso, Tx but, I always knew that I wouldn’t live there all my life. 
-  After becoming a mom, I had ambitions and goals of going finishing college and getting my Bachelor’s degree but I wanted more. 
-  So I decided to pursue my Masters degree. I am a care giver and want to help my family and others around me succeed and do better. 
+  After becoming a mom, I had ambitions and goals of finishing college and getting my Bachelor’s degree, but I wanted more. 
+  So I decided to pursue my Master’s degree. I am passionate about helping my family and those around me succeed and grow. 
   I love what I do working at USAA full time while helping and supporting my husband. 
   I too have lived here in Phoenix with my family since 2015, and even though I never planned on living here, 
   I know it was the best decision we made because there are so many opportunities here for not only us but for our kids as well.
