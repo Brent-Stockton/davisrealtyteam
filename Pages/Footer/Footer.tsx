@@ -22,7 +22,7 @@ const Footer = () => {
             />
             <img
               src="/images/exp-logo.png"
-              className="h-16 w-16 text-white"
+              className="h-16 w-24 text-white"
               alt="Realtor"
               style={whiteIconStyle}
             />
