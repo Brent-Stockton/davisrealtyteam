@@ -10,14 +10,24 @@ const StickyNavbar = () => {
       <div className="px-4 sm:px-6 lg:px-8 border-[#ab7552] border-y">
         <div className="flex justify-between items-center py-3 md:py-4">
           <div className="flex-shrink-0">
-            <Image
-              src="/images/realty-logo.png"
-              alt="Logo"
-              width={75}
-              height={50}
-              className="w-24 h-12 md:w-24 md:h-16"
-            />
+            <div className="flex flex-row gap-2">
+              <Image
+                src="/images/realty-logo.png"
+                alt="Logo"
+                width={75}
+                height={50}
+                className="w-24 h-12 md:w-24 md:h-16"
+              />
+              <img
+                src="/images/exp-logo.png"
+                alt="Logo"
+                width={35}
+                height={20}
+                className="w-12 h-8 md:w-16 md:h-10 mt-2"
+              />
+            </div>
           </div>
+
           <div className="md:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
