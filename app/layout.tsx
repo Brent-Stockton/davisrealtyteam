@@ -4,9 +4,9 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Davis Realty Team",
+  title: "Find Best Realtors & Homes for Sale in Phoenix, AZ",
   description:
-    "The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free.",
+    "Explore homes for sale in Phoenix, AZ with top realtors. Browse new, luxury, mobile and multi-family properties and find your perfect home today.",
 };
 
 export default function RootLayout({
