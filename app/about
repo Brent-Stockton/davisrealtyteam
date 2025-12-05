@@ -1,0 +1,13 @@
+export default function AboutPage() {
+  return (
+    <main style={{ padding: "40px", maxWidth: "1200px", margin: "0 auto" }}>
+      <h1>About Us</h1>
+      <p>
+        This is a new page added inside the existing Next.js website hosted on Vercel.
+      </p>
+      <p>
+        You can now customize this page and add any content you want.
+      </p>
+    </main>
+  );
+}
