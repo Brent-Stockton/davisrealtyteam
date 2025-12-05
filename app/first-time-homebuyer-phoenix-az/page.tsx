@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
   },
 };
-export default function RealtorsInPhoenixAzPage() {
+export default function FirstTimeHomebuyerPhoenixAzPage() {
   return (
     <main>
       {/* Header / Navbar */}
