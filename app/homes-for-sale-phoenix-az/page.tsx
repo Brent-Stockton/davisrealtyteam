@@ -40,7 +40,8 @@ export default function HomesForSaleInPhoenixAZPage() {
      <div
   className="seo-inner-page"
   style={{
-    maxWidth: "960px",
+    width:90%;
+    maxWidth: "1280px",
     margin: "0 auto",
     background: "#ffffff",
     padding: "32px 24px",
