@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import StickyNavbar from "@/Components/NavBar";
 import Footer from "@/Pages/Footer/Footer";
 import ContactForm from "@/Pages/Contact/Contact";
+import Hero from "@/Pages/Hero.tsx";
 
 export const metadata: Metadata = {
   title:
@@ -21,12 +22,18 @@ export const metadata: Metadata = {
 export default function RealtorsInPhoenixAzPage() {
   return (
     <main>
+      {/* Header / Navbar */}
       <StickyNavbar />
 
-      {/* Inner Page Hero / Intro Section */}
+      {/* 👇 Same banner / hero as home page */}
+      <section id="hero">
+        <Hero />
+      </section>
+
+      {/* Inner SEO content section  */}
       <section
         style={{
-          padding: "80px 16px 40px",
+          padding: "40px 16px 60px",
           background: "#f7f7f7",
         }}
       >
@@ -34,45 +41,32 @@ export default function RealtorsInPhoenixAzPage() {
           style={{
             maxWidth: "960px",
             margin: "0 auto",
-          }}
-        >
-          <h1
-            style={{
-              fontSize: "2.4rem",
-              lineHeight: 1.2,
-              marginBottom: "16px",
-            }}
-          >
-            Realtors in Phoenix AZ – Your Trusted Real Estate Resource
-          </h1>
-          <p
-            style={{
-              fontSize: "1.05rem",
-              lineHeight: 1.7,
-              maxWidth: "800px",
-            }}
-          >
-            Looking for experienced Realtors in Phoenix AZ who understand the
-            Valley, its neighborhoods and the current market? Whether you are
-            buying, selling or investing, this page is designed to guide you
-            through the opportunities Phoenix real estate has to offer.
-          </p>
-        </div>
-      </section>
-
-      {/* Main Content */}
-      <section
-        style={{
-          padding: "40px 16px 60px",
-        }}
-      >
-        <div
-          style={{
-            maxWidth: "960px",
-            margin: "0 auto",
+            background: "#ffffff",
+            padding: "32px 24px",
           }}
         >
           <article>
+            <header>
+              <h1
+                style={{
+                  fontSize: "2.2rem",
+                  lineHeight: 1.2,
+                  marginBottom: "16px",
+                }}
+              >
+                Realtors in Phoenix AZ – Your Trusted Real Estate Resource
+              </h1>
+              <p>
+                Looking for experienced Realtors in Phoenix AZ who understand
+                the Valley, its neighborhoods and the current market? Whether
+                you are buying, selling or investing, this page is designed to
+                guide you through the opportunities Phoenix real estate has to
+                offer.
+              </p>
+            </header>
+
+            <hr />
+
             <section>
               <h2>Your Trusted Real Estate Resource for Phoenix, Arizona</h2>
               <p>
@@ -300,7 +294,7 @@ export default function RealtorsInPhoenixAzPage() {
         </div>
       </section>
 
-      {/* Reuse existing contact + footer from main layout */}
+      {/* Contact + Footer same as home */}
       <section id="contact">
         <ContactForm />
       </section>
