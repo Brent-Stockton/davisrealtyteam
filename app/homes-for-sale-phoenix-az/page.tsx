@@ -54,7 +54,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-1">
+                    <div className="section-1">
                         <h3>1. New Construction Homes in Phoenix</h3>
                         <p>For buyers seeking modern features, energy-efficient designs, and the latest architectural
                             styles, Phoenix is home to a booming construction market. The city’s rapid expansion has led
