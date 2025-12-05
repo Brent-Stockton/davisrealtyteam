@@ -40,7 +40,7 @@ export default function RealtorsInPhoenixAzPage() {
      <div
   className="seo-inner-page"
   style={{
-    width: 90%;
+    width: "90%";
     maxWidth: "1280px",
     margin: "0 auto",
     background: "#ffffff",
