@@ -37,14 +37,15 @@ export default function RealtorsInPhoenixAzPage() {
           background: "#f7f7f7",
         }}
       >
-        <div
-          style={{
-            maxWidth: "960px",
-            margin: "0 auto",
-            background: "#ffffff",
-            padding: "32px 24px",
-          }}
-        >
+     <div
+  className="seo-inner-page"
+  style={{
+    maxWidth: "960px",
+    margin: "0 auto",
+    background: "#ffffff",
+    padding: "32px 24px",
+  }}
+>
           <article>
             <header>
               <h1
