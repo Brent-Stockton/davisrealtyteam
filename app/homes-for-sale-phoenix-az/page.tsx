@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RealtorsInPhoenixAzPage() {
+export default function HomesForSaleInPhoenixAZPage() {
   return (
     <main>
       {/* Header / Navbar */}
