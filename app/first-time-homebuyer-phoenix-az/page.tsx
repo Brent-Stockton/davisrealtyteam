@@ -9,7 +9,6 @@ title:
 "Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
 description:
 "Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
-across the Valley.",
 openGraph: {
 type: "website",
 url: "https://www.davisrealtyteam.com/first-time-homebuyer-phoenix-az",
@@ -17,7 +16,6 @@ title:
 "Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
 description:
 "Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
-across the Valley.",
 },
 };
 
