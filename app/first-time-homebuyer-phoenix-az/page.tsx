@@ -31,8 +31,15 @@ return (
     </section>
 
     {/* Inner SEO content section */}
-    <section style={{ padding: "40px 16px 60px" , background: "#f7f7f7" , }}>
-        <div className="seo-inner-page" style={{ width:90%; maxWidth: "1280px" , margin: "0 auto" ,
+    <section style={{
+  width: "90%",
+  maxWidth: "1280px",
+  margin: "0 auto",
+  background: "#ffffff",
+  padding: "32px 24px"
+}}
+>
+        <div className="seo-inner-page" style={{ width:"90%"; maxWidth: "1280px" , margin: "0 auto" ,
             background: "#ffffff" , padding: "32px 24px" , }}>
             <article>
                 <header>
@@ -43,7 +50,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-1">
+                    <div className="section-1">
                         
                     </div>
                 </section>
@@ -51,7 +58,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-2">
+                    <div className="section-2">
                        
                     </div>
                 </section>
@@ -59,28 +66,28 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-3">
+                    <div className="section-3">
                         
                     </div>
                 </section>
 
                 <hr />
                 <section>
-                    <div class="section-4">
+                    <div className="section-4">
                         
                     </div>
                 </section>
                 <hr />
 
                 <section>
-                    <div class="section-5">
+                    <div className="section-5">
                         
                     </div>
                 </section>
 
                 <hr />
                 <section>
-                    <div class="section-6">
+                    <div className="section-6">
                        
                     </div>
                 </section>
@@ -88,7 +95,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-7">
+                    <div className="section-7">
                         
                     </div>
                 </section>
@@ -96,7 +103,7 @@ return (
 
                     <hr />
 
-                    <div class="section-8">
+                    <div className="section-8">
                         
                     </div>
                 </section>
