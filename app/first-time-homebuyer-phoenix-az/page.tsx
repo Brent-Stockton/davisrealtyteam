@@ -40,7 +40,6 @@ return (
                 <header>
                     <h1 style={{ fontSize: "2.2rem" , lineHeight: 1.2, marginBottom: "16px" , }}>
                         First-Time Homebuyer Programs in Phoenix, AZ – Down Payment & First Responder Assistance </h1>
-                    <p></p>
                 </header>
 
                 <hr />
