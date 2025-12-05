@@ -8,16 +8,14 @@ export const metadata: Metadata = {
 title:
 "Homes for Sale in Phoenix, AZ | Residential, Commercial & Investment Real Estate",
 description:
-"Work with a trusted Realtor in Phoenix AZ for buying, selling and investing in residential and commercial properties
-across the Valley.",
+"Work with a trusted Realtor in Phoenix AZ for buying, selling and investing in residential and commercial properties across the Valley.",
 openGraph: {
 type: "website",
 url: "https://www.davisrealtyteam.com/homes-for-sale-phoenix-az",
 title:
 "Homes for Sale in Phoenix, AZ | Residential, Commercial & Investment Real Estate",
 description:
-"Local Phoenix Realtor offering expert guidance for home buyers, sellers, investors and commercial real estate clients
-across the Valley.",
+"Local Phoenix Realtor offering expert guidance for home buyers, sellers, investors and commercial real estate clients across the Valley.",
 },
 };
 
