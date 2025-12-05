@@ -56,15 +56,7 @@ export default function HomesForSaleInPhoenixAZPage() {
                 }}
               >
                Homes for Sale in Phoenix, AZ – New, Luxury, Single-Family, Multi-Family &amp; By Owner </h1>
-              <p>
-              Phoenix continues to be one of the strongest and fastest-growing housing markets in the country, offering a wide range of residential opportunities for buyers, investors,
-and families. Whether you&#39;re searching for modern construction, upscale living, family-friendly communities, or income-producing properties, the Valley has
-something for every lifestyle and budget. With warm weather, thriving job growth, and desirable neighborhoods throughout the metro area, it&#39;s no surprise that so
-many people search for Homes for Sale in Phoenix Arizona when planning their next move. 
-              </p>
-              <p>From new developments and luxury estates to multi-family buildings and mobile home communities, understanding the variety of housing options available can help
-you make a confident and informed decision. Below is a comprehensive guide to the most popular home types across Phoenix, along with expert insight on what each
-option offers and what buyers should consider.</p>
+              <p>Phoenix remains one of the nation’s fastest-growing housing markets, offering diverse opportunities for buyers, investors, and families alike. From modern homes and luxury estates to family-friendly communities and income-producing properties, the Valley caters to every lifestyle and budget. With warm weather, strong job growth, and desirable neighborhoods, demand for homes in Phoenix continues to rise. The market includes new developments, multi-family buildings, and mobile home communities, providing wide-ranging choices for different needs. Understanding these housing options helps buyers make confident, informed decisions when navigating the competitive Phoenix real estate landscape and selecting the property type that best matches their goals and investment priorities.</p>
             </header>
 
             <hr />
