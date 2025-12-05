@@ -87,7 +87,9 @@ option offers and what buyers should consider.</p>
 
             <hr />
 
-           
+         </article>
+        </div>
+      </section>   
 
       {/* Contact + Footer same as home */}
       <section id="contact">
