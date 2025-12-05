@@ -6,14 +6,14 @@ import Hero from "@/Pages/Hero.tsx";
 
 export const metadata: Metadata = {
   title:
-    "Realtors in Phoenix AZ | Residential, Commercial & Investment Real Estate",
+    "Homes for Sale in Phoenix, AZ | Residential, Commercial & Investment Real Estate",
   description:
     "Work with a trusted Realtor in Phoenix AZ for buying, selling and investing in residential and commercial properties across the Valley.",
   openGraph: {
     type: "website",
-    url: "https://www.davisrealtyteam.com/realtors-in-phoenix-az",
+    url: "https://www.davisrealtyteam.com/homes-for-sale-phoenix-az",
     title:
-      "Realtors in Phoenix AZ | Residential, Commercial & Investment Real Estate",
+      "Homes for Sale in Phoenix, AZ  | Residential, Commercial & Investment Real Estate",
     description:
       "Local Phoenix Realtor offering expert guidance for home buyers, sellers, investors and commercial real estate clients across the Valley.",
   },
@@ -55,11 +55,16 @@ export default function RealtorsInPhoenixAzPage() {
                   marginBottom: "16px",
                 }}
               >
-                Realtors in Phoenix AZ – Your Trusted Real Estate Resource
-              </h1>
+               Homes for Sale in Phoenix, AZ – New, Luxury, Single-Family, Multi-Family &amp; By Owner </h1>
               <p>
-               
+              Phoenix continues to be one of the strongest and fastest-growing housing markets in the country, offering a wide range of residential opportunities for buyers, investors,
+and families. Whether you&#39;re searching for modern construction, upscale living, family-friendly communities, or income-producing properties, the Valley has
+something for every lifestyle and budget. With warm weather, thriving job growth, and desirable neighborhoods throughout the metro area, it&#39;s no surprise that so
+many people search for Homes for Sale in Phoenix Arizona when planning their next move. 
               </p>
+              <p>From new developments and luxury estates to multi-family buildings and mobile home communities, understanding the variety of housing options available can help
+you make a confident and informed decision. Below is a comprehensive guide to the most popular home types across Phoenix, along with expert insight on what each
+option offers and what buyers should consider.</p>
             </header>
 
             <hr />
