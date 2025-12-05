@@ -121,9 +121,10 @@ export default function RealtorsInPhoenixAzPage() {
                 parks and major freeway systems. With ongoing development and a
                 growing corporate presence, Phoenix continues to be a
                 long-term, stable market for homeowners and investors alike. As
-                one of the dedicated <strong>Realtors in Phoenix Arizona</strong>
-                , I ensure my clients stay ahead of these trends so they can
-                capitalize on the best opportunities available.
+                one of the dedicated{" "}
+                <strong>Realtors in Phoenix Arizona</strong>, I ensure my
+                clients stay ahead of these trends so they can capitalize on the
+                best opportunities available.
               </p>
             </section>
 
