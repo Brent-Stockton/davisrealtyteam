@@ -32,7 +32,7 @@ return (
 
     {/* Inner SEO content section */}
     <section style={{ padding: "40px 16px 60px" , background: "#f7f7f7" , }}>
-        <div className="seo-inner-page" style={{ width:90%; maxWidth: "1280px" , margin: "0 auto" ,
+        <div className="seo-inner-page" style={{ width: "90%"; maxWidth: "1280px" , margin: "0 auto" ,
             background: "#ffffff" , padding: "32px 24px" , }}>
             <article>
                 <header>
@@ -52,7 +52,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-1">
+                    <div className="section-1">
                         <h3>1. New Construction Homes in Phoenix</h3>
                         <p>For buyers seeking modern features, energy-efficient designs, and the latest architectural
                             styles, Phoenix is home to a booming construction market. The city’s rapid expansion has led
@@ -77,7 +77,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-2">
+                    <div className="section-2">
                         <h3>2. Luxury Homes in Phoenix</h3>
                         <p>Phoenix is widely known for its high-end real estate, ranging from hillside estates with
                             panoramic views to custom builds with world-class design elements. Many luxury properties
@@ -96,7 +96,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-3">
+                    <div className="section-3">
                         <h3>3. Single-Family Homes in Phoenix</h3>
                         <p>Single-family properties continue to be the most popular choice among homebuyers, offering
                             versatility, established neighborhoods, and strong long-term appreciation. From classic
@@ -114,7 +114,7 @@ return (
 
                 <hr />
                 <section>
-                    <div class="section-4">
+                    <div className="section-4">
                         <h3>4. Multi-Family Homes and Income-Producing Properties</h3>
                         <p>Investors continue to show strong interest in Phoenix due to its rising rental demand, job
                             growth, and expanding population. Multi-family properties offer the potential for cash flow,
@@ -133,7 +133,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-5">
+                    <div className="section-5">
                         <h3>5. Mobile Homes and Affordable Alternatives</h3>
                         <p>Mobile home communities continue to grow in popularity across the Valley, especially among
                             buyers seeking budget-friendly options, seasonal living, or low-maintenance lifestyles. Many
@@ -151,7 +151,7 @@ return (
 
                 <hr />
                 <section>
-                    <div class="section-6">
+                    <div className="section-6">
                         <h3>6. Homes for Sale by Owner</h3>
                         <p>Some buyers choose to explore properties offered directly by homeowners without the
                             involvement of a listing agent. These properties, often referred to as FSBO listings, can
@@ -169,7 +169,7 @@ return (
                 <hr />
 
                 <section>
-                    <div class="section-7">
+                    <div className="section-7">
                         <h3>Selecting the Right Home Type for Your Needs</h3>
                         <p>Choosing the right type of home in Phoenix depends on several factors, including budget,
                             location preferences, lifestyle needs, and long-term goals. Buyers should consider:</p>
@@ -192,7 +192,7 @@ return (
 
                     <hr />
 
-                    <div class="section-8">
+                    <div className="section-8">
                         <h3>Your Partner in the Phoenix Real Estate Market</h3>
                         <p>Whether you’re searching for a newly built home, a custom luxury estate, an investment
                             property, or a more affordable option, the Phoenix market offers an impressive range of
