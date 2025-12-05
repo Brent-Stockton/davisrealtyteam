@@ -48,3 +48,29 @@ html {
 #homebot_homeowner_navbar h1 {
   color: white !important;
 }
+
+
+/* SEO inner page layout */
+.seo-inner-page {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Lists inside SEO inner page */
+.seo-inner-page ul {
+  margin: 0 0 1.25rem 1.5rem;
+  padding-left: 1.2rem;
+  list-style: disc;
+}
+
+.seo-inner-page li {
+  margin-bottom: 0.4rem;
+}
+
+/* Optional: headings spacing */
+.seo-inner-page h2 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  text-transform: none;
+}
