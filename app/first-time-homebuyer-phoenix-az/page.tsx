@@ -3,113 +3,117 @@ import StickyNavbar from "@/Components/NavBar";
 import Footer from "@/Pages/Footer/Footer";
 import ContactForm from "@/Pages/Contact/Contact";
 import Hero from "@/Pages/Hero.tsx";
+
 export const metadata: Metadata = {
-  title:
-    "Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
-  description:
-    "Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
-  openGraph: {
-    type: "website",
-    url: "https://www.davisrealtyteam.com/first-time-homebuyer-phoenix-az",
-    title:
-      "Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
-    description:
-      "Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
-  },
+title:
+"Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
+description:
+"Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
+across the Valley.",
+openGraph: {
+type: "website",
+url: "https://www.davisrealtyteam.com/first-time-homebuyer-phoenix-az",
+title:
+"Phoenix First Time Homebuyer Program | First Responder Home Loan & Down Payment Assistance",
+description:
+"Qualify for Phoenix first time homebuyer programs including down payment assistance and first responder home loan benefits. Find the best options to make your first home purchase easier.",
+across the Valley.",
+},
 };
+
 export default function FirstTimeHomebuyerPhoenixAzPage() {
-  return (
-    <main>
-      {/* Header / Navbar */}
-      <StickyNavbar />
+return (
+<main>
+    {/* Header / Navbar */}
+    <StickyNavbar />
 
-      {/* 👇 Same banner / hero as home page */}
-      <section id="hero">
+    {/* 👇 Same banner / hero as home page */}
+    <section id="hero">
         <Hero />
-      </section>
+    </section>
 
-      {/* Inner SEO content section  */}
-      <section
-        style={{
-          padding: "40px 16px 60px",
-          background: "#f7f7f7",
-        }}
-      >
-     <div
-  className="seo-inner-page"
-  style={{
-    width: 90%;
-    maxWidth: "1280px",
-    margin: "0 auto",
-    background: "#ffffff",
-    padding: "32px 24px",
-  }}
->
-          <article>
-            <header>
-              <h1
-                style={{
-                  fontSize: "2.2rem",
-                  lineHeight: 1.2,
-                  marginBottom: "16px",
-                }}
-              >
-                Realtors in Phoenix AZ – Your Trusted Real Estate Resource
-              </h1>
-              <p>
+    {/* Inner SEO content section */}
+    <section style={{ padding: "40px 16px 60px" , background: "#f7f7f7" , }}>
+        <div className="seo-inner-page" style={{ width:90%; maxWidth: "1280px" , margin: "0 auto" ,
+            background: "#ffffff" , padding: "32px 24px" , }}>
+            <article>
+                <header>
+                    <h1 style={{ fontSize: "2.2rem" , lineHeight: 1.2, marginBottom: "16px" , }}>
+                        First-Time Homebuyer Programs in Phoenix, AZ – Down Payment & First Responder Assistance </h1>
+                    <p></p>
+                </header>
 
-              </p>
-            </header>
+                <hr />
 
-            <hr />
+                <section>
+                    <div class="section-1">
+                        
+                    </div>
+                </section>
 
-            <section>
-              <h2></h2>
-              <p>
+                <hr />
 
-              </p>
-              <p>
+                <section>
+                    <div class="section-2">
+                       
+                    </div>
+                </section>
 
-              </p>
-            </section>
+                <hr />
 
-            <hr />
+                <section>
+                    <div class="section-3">
+                        
+                    </div>
+                </section>
 
-            <section>
-              <h2></h2>
-              <p>
+                <hr />
+                <section>
+                    <div class="section-4">
+                        
+                    </div>
+                </section>
+                <hr />
 
-              </p>
-              <p>
+                <section>
+                    <div class="section-5">
+                        
+                    </div>
+                </section>
 
-              </p>
-            </section>
+                <hr />
+                <section>
+                    <div class="section-6">
+                       
+                    </div>
+                </section>
 
-            <hr />
+                <hr />
 
-            <section>
-              <h2></h2>
-              <p>
+                <section>
+                    <div class="section-7">
+                        
+                    </div>
+                </section>
+                <section>
 
-              </p>
-              <p></p>
-   
-            </section>
+                    <hr />
 
-            <hr />
-
-
-          </article>
+                    <div class="section-8">
+                        
+                    </div>
+                </section>
+            </article>
         </div>
-      </section>
+    </section>
 
-      {/* Contact + Footer same as home */}
-      <section id="contact">
+    {/* Contact + Footer same as home */}
+    <section id="contact">
         <ContactForm />
-      </section>
-      <section id="footer">
+    </section>
+    <section id="footer">
         <Footer />
-      </section>
-    </main>
-  );
+    </section>
+</main>
+);
 }
