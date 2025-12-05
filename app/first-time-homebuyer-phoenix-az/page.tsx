@@ -39,7 +39,7 @@ return (
   padding: "32px 24px"
 }}
 >
-        <div className="seo-inner-page" style={{ width:"90%"; maxWidth: "1280px" , margin: "0 auto" ,
+        <div className="seo-inner-page" style={{ width: "90%"; maxWidth: "1280px" , margin: "0 auto" ,
             background: "#ffffff" , padding: "32px 24px" , }}>
             <article>
                 <header>
@@ -47,66 +47,7 @@ return (
                         First-Time Homebuyer Programs in Phoenix, AZ – Down Payment & First Responder Assistance </h1>
                 </header>
 
-                <hr />
-
-                <section>
-                    <div className="section-1">
-                        
-                    </div>
-                </section>
-
-                <hr />
-
-                <section>
-                    <div className="section-2">
-                       
-                    </div>
-                </section>
-
-                <hr />
-
-                <section>
-                    <div className="section-3">
-                        
-                    </div>
-                </section>
-
-                <hr />
-                <section>
-                    <div className="section-4">
-                        
-                    </div>
-                </section>
-                <hr />
-
-                <section>
-                    <div className="section-5">
-                        
-                    </div>
-                </section>
-
-                <hr />
-                <section>
-                    <div className="section-6">
-                       
-                    </div>
-                </section>
-
-                <hr />
-
-                <section>
-                    <div className="section-7">
-                        
-                    </div>
-                </section>
-                <section>
-
-                    <hr />
-
-                    <div className="section-8">
-                        
-                    </div>
-                </section>
+               
             </article>
         </div>
     </section>
