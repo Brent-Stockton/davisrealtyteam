@@ -124,6 +124,40 @@ export default function RealtorsInPhoenixAzPage() {
 </section>
 
             
+          <section>
+            <div className="section-6">
+            <h2><strong>A Personalized Approach for Every Client</strong></h2>
+<p>Real estate is not a one-size-fits-all process. Every buyer and seller brings unique goals, timelines, and financial considerations. That’s why I focus on delivering an experience that adapts to your needs rather than expecting you to fit into a standard system.</p>
+<p>As one of the <strong>Top Realtors in Phoenix AZ</strong>, I remain committed to:</p>
+<ul>
+<li>Clear and consistent communication</li>
+<li>Transparent information and real-time market updates</li>
+<li>Protecting your financial interests</li>
+<li>Offering solutions, not pressure</li>
+<li>Providing honest guidance based on data, experience, and your goals</li>
+</ul>
+<p>My role is to make your real estate journey easier, more informed, and more rewarding.</p>
+            </div>
+          </section>
+
+
+          <section>
+            <div className="section-7">
+            <h2><strong>Investors Welcome</strong></h2>
+<p>Phoenix has become a hotspot for investors seeking reliable returns and long-term stability. From short-term rentals to multi-family properties and fixer-upper opportunities, the Valley offers endless ways to build wealth through real estate. I help investors analyze neighborhoods, rental rates, appreciation trends, and cash-flow potential so they can make profitable, informed decisions.</p>
+<p>Whether you're building a portfolio or making your first investment, I provide guidance customized to your strategy.</p>
+            </div>
+          </section>
+
+
+          <section>
+            <div className="section-8">
+            <h2><strong>Community Knowledge That Matters</strong></h2>
+<p>Phoenix is a city rich in diversity, culture, and opportunity. Understanding the nuances of each neighborhood is essential when buying or selling a property. From schools and commute times to lifestyle amenities and future development plans, local knowledge plays a major role in making the right choices.</p>
+<p>As the <strong>Best Realtor in Phoenix AZ</strong>, I use my experience and community insight to help you make decisions rooted in both current value and long-term potential.</p>
+            </div>
+          </section>
+            
           </article>
         </div>
       </section>
