@@ -98,7 +98,7 @@ Best Realtors in Scottsdale, AZ – Trusted Real Estate Professionals
             trusted <strong>Luxury Realtor Scottsdale AZ</strong> ensures that every transaction is handled with
             expertise and care, whether the client is buying a high-end estate or selling a luxury property.</p>
         <h3><strong>Benefits of Partnering With an Experienced Realtor</strong></h3>
-        <ol>
+        <ul>
             <li><strong>Local Market Knowledge</strong><br /> Top Realtors possess in-depth understanding of
                 Scottsdale’s neighborhoods, pricing trends, schools, amenities, and community developments. This insight
                 helps clients make informed decisions.</li>
@@ -111,7 +111,7 @@ Best Realtors in Scottsdale, AZ – Trusted Real Estate Professionals
                 escrow, and closing procedures to ensure a smooth process from start to finish.</li>
             <li><strong>Tailored Marketing for Sellers<br /></strong>Professional marketing, staging advice, and
                 targeted exposure attract qualified buyers and maximize property value.</li>
-        </ol>
+        </ul>
     </div>
 </section>
 <hr />
@@ -151,7 +151,7 @@ Best Realtors in Scottsdale, AZ – Trusted Real Estate Professionals
             Working with a top-tier agent ensures that buyers find properties that meet their preferences while staying
             within budget.</p>
         <h3><strong>Key Steps in the Homebuying Process</strong></h3>
-        <ol>
+        <ul>
             <li><strong>Pre-Approval and Financial Planning</strong><br /> Securing mortgage pre-approval strengthens
                 your offer and clarifies your price range.</li>
             <li><strong>Exploring Neighborhoods</strong><br /> Scottsdale neighborhoods offer diverse living
@@ -164,7 +164,7 @@ Best Realtors in Scottsdale, AZ – Trusted Real Estate Professionals
             <li><strong>Inspection, Appraisal, and Closing</strong><br /> Professional guidance ensures that all
                 inspections, appraisals, and paperwork are managed efficiently, resulting in a seamless closing
                 experience.</li>
-        </ol>
+        </ul>
     </div>
 </section>
 <hr />
