@@ -71,7 +71,7 @@ export default function RealtorsInPhoenixAzPage() {
 
             <section>
               <div className="section-2">
-             <h3>Why Phoenix Remains a Top Market for Real Estate</h3>
+             <h3><strong>Why Phoenix Remains a Top Market for Real Estate</strong></h3>
 <p>Phoenix real estate is known for its strong resale values, new construction opportunities, and diverse range of homes. From starter homes to luxury estates, the Valley accommodates buyers across every price point. Working with experienced <strong>Realtors in Phoenix Arizona</strong> gives you access to accurate neighborhood comparisons, property data, and negotiation advantages—key elements that help you make confident decisions whether you’re buying or selling.</p>
 <p>The city is also full of thriving communities with access to top-rated schools, shopping centers, entertainment districts, parks, and major freeway systems. With ongoing development and growing corporate presence, Phoenix continues to be a long-term, stable market for homeowners and investors alike. As one of the many dedicated <strong>Realtors in Phoenix AZ</strong>, I ensure my clients stay ahead of these trends so they can capitalize on the best opportunities available.</p>
             </div>
@@ -79,7 +79,7 @@ export default function RealtorsInPhoenixAzPage() {
 <hr />
           <section>
             <div className="section-3">
-            <h3>Comprehensive Residential Buying Services</h3>
+            <h3><strong>Comprehensive Residential Buying Services</strong></h3>
               <p>Searching for a home is one of the most personal and significant decisions you can make. With the right guidance, the process becomes both exciting and empowering. I work closely with buyers to identify their goals, preferred neighborhoods, budget, and long-term plans. Whether you’re looking for urban living, a family-friendly suburb, or a quiet desert retreat, I streamline the search process to deliver handpicked listings that match your priorities.</p>
            <p>I provide support with:</p>
 <ul>
