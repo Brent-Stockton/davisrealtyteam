@@ -118,13 +118,13 @@ First-Time Homebuyer Programs in Phoenix, AZ – Down Payment & First Responder 
             <div className="section-">
             <h2><strong>Benefits of First-Time Buyer and First Responder Programs</strong></h2>
 <p>These programs offer life-changing advantages for qualified buyers, including:</p>
-<ol>
+<ul>
 <li><strong>Lower Upfront Costs<br /></strong>Assistance can reduce or eliminate the down payment and closing costs, allowing buyers to purchase sooner.</li>
 <li><strong>Better Loan Terms<br /></strong>Some programs include access to competitive interest rates, which lowers monthly payments.</li>
 <li><strong>Greater Buying Power<br /></strong>With financial support, buyers may qualify for properties that meet more of their needs and long-term goals.</li>
 <li><strong>Increased Financial Stability<br /></strong>Educated, supported buyers are less likely to face financial hardship after moving in.</li>
 <li><strong>Community Building<br /></strong>First responder programs help essential workers live near the communities they serve, enhancing neighborhood safety and stability.</li>
-</ol>
+</ul>
             </div>
           </section>
             <hr />
