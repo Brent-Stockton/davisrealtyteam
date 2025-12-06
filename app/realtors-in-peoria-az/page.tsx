@@ -6,16 +6,16 @@ import Hero from "@/Pages/Hero.tsx";
 
 export const metadata: Metadata = {
   title:
-    "Homes for Sale in Phoenix, AZ | Luxury, Single-Family, Multi-Family & By Owner",
+    "Top Realtors in Peoria AZ | Work With the Best Realtor in Peoria",
   description:
-    "",
+    "Looking for the best Realtors in Peoria AZ? Connect with top real estate professionals to buy or sell homes, find the right property, and get expert local guidance.",
   openGraph: {
     type: "website",
     url: "https://www.davisrealtyteam.com/realtors-in-peoria-az",
     title:
-      "",
+      "Top Realtors in Peoria AZ | Work With the Best Realtor in Peoria",
     description:
-      "",
+      "Looking for the best Realtors in Peoria AZ? Connect with top real estate professionals to buy or sell homes, find the right property, and get expert local guidance.",
   },
 };
 
