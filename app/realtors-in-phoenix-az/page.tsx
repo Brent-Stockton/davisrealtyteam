@@ -56,12 +56,17 @@ export default function RealtorsInPhoenixAzPage() {
                   marginBottom: "16px",
                 }}
               >
-                Your Trusted Real Estate Resource for Buying, Selling, and Investing in Phoenix
+                Top Realtors in Phoenix, AZ – Residential & Commercial Experts
               </h1>
-             <p>Navigating the real estate market in a city as dynamic as Phoenix requires a knowledgeable and dedicated partner. Whether you’re buying your first home, investing in commercial property, or preparing to sell a long-held residence, you deserve guidance that’s rooted in expertise, integrity, and a deep understanding of the local market. As one of the committed <strong>Phoenix Realtors</strong> serving the Valley, my mission is to provide every client with a seamless, transparent, and highly informed experience tailored to their needs.</p>
-<p>Phoenix continues to rank as one of the most desirable and fastest-growing metropolitan areas in the country. Its booming job market, warm climate, diverse neighborhoods, and steady property values create an environment where both new and seasoned buyers can thrive. Because the market changes quickly, it’s more important than ever to work with professionals who understand local trends and how to leverage them for your success. Among all the <strong>Realtors in Phoenix</strong>, I take pride in offering strategic market insights, exceptional communication, and client-first service that goes far beyond the transaction.</p>
             </header>
+<section>
+<div class="">
+<h2>Your Trusted Real Estate Resource for Buying, Selling, and Investing in Phoenix</h2>
+  <p>Navigating the real estate market in a city as dynamic as Phoenix requires a knowledgeable and dedicated partner. Whether you’re buying your first home, investing in commercial property, or preparing to sell a long-held residence, you deserve guidance that’s rooted in expertise, integrity, and a deep understanding of the local market. As one of the committed <strong>Phoenix Realtors</strong> serving the Valley, my mission is to provide every client with a seamless, transparent, and highly informed experience tailored to their needs.</p>
+<p>Phoenix continues to rank as one of the most desirable and fastest-growing metropolitan areas in the country. Its booming job market, warm climate, diverse neighborhoods, and steady property values create an environment where both new and seasoned buyers can thrive. Because the market changes quickly, it’s more important than ever to work with professionals who understand local trends and how to leverage them for your success. Among all the <strong>Realtors in Phoenix</strong>, I take pride in offering strategic market insights, exceptional communication, and client-first service that goes far beyond the transaction.</p>
 
+</div>
+</section>
             <hr />
 
             <section>
