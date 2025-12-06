@@ -56,7 +56,7 @@ export default function RealtorsInPhoenixAzPage() {
                   marginBottom: "16px",
                 }}
               >
-                Top Realtors in Phoenix, AZ – Residential & Commercial Experts
+                Top Realtors in Phoenix, AZ – Residential and Commercial Experts
               </h1>
             </header>
 <section>
