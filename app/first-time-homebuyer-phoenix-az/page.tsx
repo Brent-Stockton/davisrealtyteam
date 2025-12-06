@@ -19,7 +19,7 @@ description:
 },
 };
 
-export default function FirstTimeHomebuyerPhoenixAzPage() {
+export default function FirstTimeHomebuyerPhoenixAzPage.tsx() {
 return (
 <main>
     {/* Header / Navbar */}
