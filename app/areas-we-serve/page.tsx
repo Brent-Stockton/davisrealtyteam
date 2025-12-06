@@ -58,12 +58,12 @@ export default function AreasWeServePage() {
               >
 Areas We Serve – Find Homes & Realtors Across the Greater Phoenix Area
               </h1>
-<p><strong>Phoenix, AZ:</strong> Explore Homes &amp; Realtors in Phoenix, AZ</p>
-<p><strong>Peoria, AZ:</strong> Explore Homes &amp; Realtors in Peoria, AZ</p>
-<p><strong>Surprise, AZ:</strong> Explore Homes &amp; Realtors in Surprise, AZ</p>
-<p><strong>Scottsdale, AZ:</strong> Explore Homes &amp; Realtors in Scottsdale, AZ</p>
-<p><strong>Gilbert, AZ:</strong> Explore Homes &amp; Realtors in Gilbert, AZ</p>
-<p><strong>Anthem, AZ</strong>: Explore Homes &amp; Realtors in Anthem, AZ</p>
+<p><a href="https://www.davisrealtyteam.com/homes-for-sale-phoenix-az"><strong>Phoenix, AZ:</strong> Explore Homes &amp; Realtors in Phoenix, AZ</a></p>
+<p><a href="https://www.davisrealtyteam.com/realtors-in-peoria-az"><strong>Peoria, AZ:</strong> Explore Homes &amp; Realtors in Peoria, AZ</a></p>
+<p><a href="https://www.davisrealtyteam.com/homes-for-sale-surprise-az"><strong>Surprise, AZ:</strong> Explore Homes &amp; Realtors in Surprise, AZ</a></p>
+<p><a href="https://www.davisrealtyteam.com/homes-for-sale-scottsdale-az"><strong>Scottsdale, AZ:</strong> Explore Homes &amp; Realtors in Scottsdale, AZ</a></p>
+<p><a href="https://www.davisrealtyteam.com/homes-for-sale-gilbert-az"><strong>Gilbert, AZ:</strong> Explore Homes &amp; Realtors in Gilbert, AZ</a></p>
+<p><a href="https://www.davisrealtyteam.com/homes-for-sale-anthem-az"><strong>Anthem, AZ</strong>: Explore Homes &amp; Realtors in Anthem, AZ</a></p>
             </header>
 
 
