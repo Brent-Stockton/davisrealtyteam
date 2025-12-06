@@ -113,7 +113,7 @@ export default function RealtorsInPhoenixAzPage() {
 <p>Your home deserves expert representation from start to finish, and I take pride in making the selling process smooth, predictable, and rewarding.</p>
             </div>
           </section>
-
+<hr />
             
 <section>
 <div className="section-5">
@@ -122,7 +122,7 @@ export default function RealtorsInPhoenixAzPage() {
 <p>Whether you’re purchasing your first commercial asset, expanding your portfolio, or looking to sell a property, I offer strategic guidance backed by detailed market assessments and proven negotiation skills.</p>     
 </div>
 </section>
-
+<hr />
             
           <section>
             <div className="section-6">
@@ -139,7 +139,7 @@ export default function RealtorsInPhoenixAzPage() {
 <p>My role is to make your real estate journey easier, more informed, and more rewarding.</p>
             </div>
           </section>
-
+<hr />
 
           <section>
             <div className="section-7">
@@ -148,7 +148,7 @@ export default function RealtorsInPhoenixAzPage() {
 <p>Whether you're building a portfolio or making your first investment, I provide guidance customized to your strategy.</p>
             </div>
           </section>
-
+<hr />
 
           <section>
             <div className="section-8">
@@ -157,7 +157,18 @@ export default function RealtorsInPhoenixAzPage() {
 <p>As the <strong>Best Realtor in Phoenix AZ</strong>, I use my experience and community insight to help you make decisions rooted in both current value and long-term potential.</p>
             </div>
           </section>
-            
+<hr />
+          <section>
+            <div className="section-9">
+            <h2><strong>Your Partner in Every Real Estate Goal</strong></h2>
+<p>Whether you're buying your dream home, selling a cherished property, expanding your commercial portfolio, or exploring investment opportunities, you deserve a trusted professional who’s committed to your success. Phoenix is a market full of possibilities—and with the right support, you can take advantage of everything it has to offer.</p>
+<p>If you're ready to take the next step, I’m here to help you navigate the process with confidence, clarity, and expert care. Your goals are my priority, and I’m honored to guide you through each chapter of your real estate journey.</p>
+            </div>
+          </section>
+
+<hr />
+
+ 
           </article>
         </div>
       </section>
