@@ -6,16 +6,16 @@ import Hero from "@/Pages/Hero.tsx";
 
 export const metadata: Metadata = {
   title:
-    "Homes for Sale in Phoenix, AZ | Luxury, Single-Family, Multi-Family & By Owner",
+    "Homes for Sale in Surprise AZ | New & Move-In Ready Homes",
   description:
-    "",
+    "Explore homes for sale in Surprise AZ, including new homes, move-in ready properties, and top listings. Find the best homes in Surprise AZ for sale today.",
   openGraph: {
     type: "website",
     url: "https://www.davisrealtyteam.com/homes-for-sale-surprise-az",
     title:
-      "",
+      "Homes for Sale in Surprise AZ | New & Move-In Ready Homes",
     description:
-      "",
+      "Explore homes for sale in Surprise AZ, including new homes, move-in ready properties, and top listings. Find the best homes in Surprise AZ for sale today.",
   },
 };
 
