@@ -122,7 +122,31 @@ export default function HomesForSalePhoenixAzPage() {
             </div>
           </section>
 <hr />
+          <section>
+            <div className="section-7">
+            <h2><strong>Selecting the Right Home Type for Your Needs</strong></h2>
+<p>Choosing the right type of home in Phoenix depends on several factors, including budget, location preferences, lifestyle needs, and long-term goals. Buyers should consider:</p>
+<ul>
+<li><strong>Commute and accessibility</strong></li>
+<li><strong>School districts and community amenities</strong></li>
+<li><strong>Size requirements and lot preferences</strong></li>
+<li><strong>Maintenance responsibilities</strong></li>
+<li><strong>Potential for resale value</strong></li>
+<li><strong>Investment or rental income opportunities</strong></li>
+</ul>
+<p>New construction may appeal to buyers who want the latest design trends, while luxury homes attract those seeking premium features and unmatched comfort. Single-family homes provide long-term stability, multi-family properties support investment strategies, and mobile homes offer affordability and convenience. Meanwhile, FSBO listings can give experienced buyers unique entry points into the market.</p>
+            </div>
+          </section>
+<hr />
 
+          <section>
+            <div className="section-8">
+            <h2><strong>Your Partner in the Phoenix Real Estate Market</strong></h2>
+<p>Whether you’re searching for a newly built home, a custom luxury estate, an investment property, or a more affordable option, the Phoenix market offers an impressive range of possibilities. With the right guidance, buying a home here can be both exciting and rewarding. From neighborhood expertise to negotiation strategy, I’m here to help you navigate every step with confidence.</p>
+            </div>
+          </section>
+<hr />
+            
             
           </article>
         </div>
