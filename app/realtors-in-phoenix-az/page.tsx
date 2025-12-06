@@ -100,7 +100,7 @@ export default function RealtorsInPhoenixAzPage() {
             <hr />
 
             <section>
-              <h2>Why Phoenix Remains a Top Market for Real Estate Hi</h2>
+              <h2>Why Phoenix Remains a Top Market for Real Estate</h2>
               <p>
                 Phoenix real estate is known for its strong resale values, new
                 construction opportunities and diverse range of homes. From
