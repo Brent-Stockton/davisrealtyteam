@@ -64,7 +64,7 @@ export default function HomesForSalePhoenixAzPage() {
             <hr />
 
             <section>
-            <div className="section-1">
+            <div className="lightgrey-bgs">
             <h2><strong>1. New Construction Homes in Phoenix</strong></h2>
 <p>For buyers seeking modern features, energy-efficient designs, and the latest architectural styles, Phoenix is home to a booming construction market. The city’s rapid expansion has led to dozens of new communities offering flexible floor plans, smart-home upgrades, and resort-style amenities. Many of these neighborhoods are located near top-rated schools, shopping centers, and outdoor recreation, making them ideal for individuals and families alike.</p>
 <p>Those exploring <strong>New Homes for Sale in Phoenix AZ</strong> will find everything from contemporary single-story layouts to spacious two-story designs with open living areas, large kitchens, and covered outdoor spaces perfect for Arizona’s year-round sunshine. Builders often offer incentives toward closing costs, upgrades, or interest rate buy-downs, making new construction an attractive option for buyers looking for value as well as convenience.</p>
@@ -74,7 +74,7 @@ export default function HomesForSalePhoenixAzPage() {
 <hr />
 
           <section>
-            <div className="section-2">
+            <div className="white-bgs">
             <h2><strong>2. Luxury Homes in Phoenix</strong></h2>
 <p>Phoenix is widely known for its high-end real estate, ranging from hillside estates with panoramic views to custom builds with world-class design elements. Many luxury properties feature state-of-the-art technology, expansive indoor-outdoor living spaces, chef’s kitchens, resort-style pools, guest casitas, rooftop patios, and breathtaking desert landscapes.</p>
 <p>Those searching for <strong>Luxury Homes for Sale in Phoenix AZ</strong> often explore upscale areas such as the Biltmore, Arcadia, Ahwatukee, Desert Ridge, North Central Phoenix, and surrounding foothill communities. Luxury buyers typically prioritize privacy, architectural detail, and access to golf courses, dining, and entertainment. Whether you’re after a newly built luxury residence or a custom desert retreat, Phoenix provides numerous options that combine comfort, elegance, and investment security.</p>
@@ -83,7 +83,7 @@ export default function HomesForSalePhoenixAzPage() {
 <hr />
             
           <section>
-            <div className="section-3">
+            <div className="lightgrey-bgs">
             <h2><strong>3. Single-Family Homes in Phoenix</strong></h2>
 <p>Single-family properties continue to be the most popular choice among homebuyers, offering versatility, established neighborhoods, and strong long-term appreciation. From classic ranch-style homes to modern suburban residences, the market for <strong>Single Family Homes for Sale in Phoenix AZ</strong> includes a wide variety of sizes, prices, and architectural styles.</p>
 <p>Buyers appreciate the stability of single-family neighborhoods, especially areas with community parks, local schools, and nearby shopping. With a mix of older homes full of character and new developments offering contemporary floor plans, Phoenix provides single-family options suitable for first-time buyers, growing households, and retirees. Many of these homes feature spacious backyards, garages, updated interiors, and proximity to major freeways for daily commuting.</p>
@@ -93,7 +93,7 @@ export default function HomesForSalePhoenixAzPage() {
 
             
           <section>
-            <div className="section-4">
+            <div className="white-bgs">
             <h2><strong>4. Multi-Family Homes and Income-Producing Properties</strong></h2>
 <p>Investors continue to show strong interest in Phoenix due to its rising rental demand, job growth, and expanding population. Multi-family properties offer the potential for cash flow, long-term appreciation, and a stable rental market supported by students, professionals, and families.</p>
 <p>The demand for <strong>Multi Family Homes for Sale Phoenix AZ</strong> is especially high among investors looking to purchase duplexes, triplexes, and fourplexes. These properties provide opportunities for passive income while building equity in an appreciating market. Multi-family homes can also be ideal for multi-generational households or buyers looking to live in one unit while renting out the others to help offset mortgage expenses.</p>
@@ -104,7 +104,7 @@ export default function HomesForSalePhoenixAzPage() {
 
             
           <section>
-            <div className="section-5">
+            <div className="lightgrey-bgs">
             <h2><strong>5. Mobile Homes and Affordable Alternatives</strong></h2>
 <p>Mobile home communities continue to grow in popularity across the Valley, especially among buyers seeking budget-friendly options, seasonal living, or low-maintenance lifestyles. Many of these communities offer amenities such as pools, clubhouses, fitness centers, and gated access.</p>
 <p>Buyers searching for <strong>Mobile Homes for Sale in Phoenix AZ</strong> will find a variety of choices, including age-restricted 55+ parks and all-age communities. Mobile homes often provide significantly more space than similarly priced condos or apartments, making them an appealing option for retirees, snowbirds, or anyone seeking affordability without sacrificing comfort.</p>
@@ -115,7 +115,7 @@ export default function HomesForSalePhoenixAzPage() {
 
 
           <section>
-            <div className="section-6">
+            <div className="white-bgs">
             <h2><strong>6. Homes for Sale by Owner</strong></h2>
 <p>Some buyers choose to explore properties offered directly by homeowners without the involvement of a listing agent. These properties, often referred to as FSBO listings, can provide unique opportunities—especially for buyers who want to negotiate directly or explore homes not yet widely marketed.</p>
 <p>Home shoppers looking for <strong>Homes for Sale by Owner Phoenix AZ</strong> will encounter a mix of single-family homes, condos, townhomes, and investment properties. While FSBO listings can sometimes offer flexibility on price or terms, buyers should still be cautious, ensuring they understand disclosures, inspections, and contract requirements. Working with a professional buyer’s agent can add protection and experience to the process, even when the seller is not represented.</p>
@@ -123,7 +123,7 @@ export default function HomesForSalePhoenixAzPage() {
           </section>
 <hr />
           <section>
-            <div className="section-7">
+            <div className="lightgrey-bgs">
             <h2><strong>Selecting the Right Home Type for Your Needs</strong></h2>
 <p>Choosing the right type of home in Phoenix depends on several factors, including budget, location preferences, lifestyle needs, and long-term goals. Buyers should consider:</p>
 <ul>
@@ -140,7 +140,7 @@ export default function HomesForSalePhoenixAzPage() {
 <hr />
 
           <section>
-            <div className="section-8">
+            <div className="white-bgs">
             <h2><strong>Your Partner in the Phoenix Real Estate Market</strong></h2>
 <p>Whether you’re searching for a newly built home, a custom luxury estate, an investment property, or a more affordable option, the Phoenix market offers an impressive range of possibilities. With the right guidance, buying a home here can be both exciting and rewarding. From neighborhood expertise to negotiation strategy, I’m here to help you navigate every step with confidence.</p>
             </div>
