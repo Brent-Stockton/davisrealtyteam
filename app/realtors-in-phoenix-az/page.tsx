@@ -70,7 +70,7 @@ export default function RealtorsInPhoenixAzPage() {
             <hr />
 
             <section>
-              <h2>Your Trusted Real Estate Resource for Phoenix, Arizona</h2>
+              <h2>Your Trusted Real Estate Resource for Phoenix, Arizona Hi</h2>
               <p>
                 Navigating the real estate market in a city as dynamic as
                 Phoenix requires a knowledgeable and dedicated partner. Whether
