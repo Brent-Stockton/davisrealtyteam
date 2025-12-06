@@ -60,7 +60,7 @@ export default function RealtorsInPhoenixAzPage() {
               </h1>
             </header>
 <section>
-<div class="">
+<div className="section-1">
 <h2>Your Trusted Real Estate Resource for Buying, Selling, and Investing in Phoenix</h2>
   <p>Navigating the real estate market in a city as dynamic as Phoenix requires a knowledgeable and dedicated partner. Whether you’re buying your first home, investing in commercial property, or preparing to sell a long-held residence, you deserve guidance that’s rooted in expertise, integrity, and a deep understanding of the local market. As one of the committed <strong>Phoenix Realtors</strong> serving the Valley, my mission is to provide every client with a seamless, transparent, and highly informed experience tailored to their needs.</p>
 <p>Phoenix continues to rank as one of the most desirable and fastest-growing metropolitan areas in the country. Its booming job market, warm climate, diverse neighborhoods, and steady property values create an environment where both new and seasoned buyers can thrive. Because the market changes quickly, it’s more important than ever to work with professionals who understand local trends and how to leverage them for your success. Among all the <strong>Realtors in Phoenix</strong>, I take pride in offering strategic market insights, exceptional communication, and client-first service that goes far beyond the transaction.</p>
@@ -70,7 +70,7 @@ export default function RealtorsInPhoenixAzPage() {
             <hr />
 
             <section>
-              <div class="">
+              <div className="section-2">
              <h3>Why Phoenix Remains a Top Market for Real Estate</h3>
 <p>Phoenix real estate is known for its strong resale values, new construction opportunities, and diverse range of homes. From starter homes to luxury estates, the Valley accommodates buyers across every price point. Working with experienced <strong>Realtors in Phoenix Arizona</strong> gives you access to accurate neighborhood comparisons, property data, and negotiation advantages—key elements that help you make confident decisions whether you’re buying or selling.</p>
 <p>The city is also full of thriving communities with access to top-rated schools, shopping centers, entertainment districts, parks, and major freeway systems. With ongoing development and growing corporate presence, Phoenix continues to be a long-term, stable market for homeowners and investors alike. As one of the many dedicated <strong>Realtors in Phoenix AZ</strong>, I ensure my clients stay ahead of these trends so they can capitalize on the best opportunities available.</p>
@@ -78,7 +78,7 @@ export default function RealtorsInPhoenixAzPage() {
               </section>
 <hr />
           <section>
-            <div class="section-">
+            <div className="section-3">
             <h3>Comprehensive Residential Buying Services</h3>
               <p>Searching for a home is one of the most personal and significant decisions you can make. With the right guidance, the process becomes both exciting and empowering. I work closely with buyers to identify their goals, preferred neighborhoods, budget, and long-term plans. Whether you’re looking for urban living, a family-friendly suburb, or a quiet desert retreat, I streamline the search process to deliver handpicked listings that match your priorities.</p>
            <p>I provide support with:</p>
