@@ -70,58 +70,13 @@ export default function RealtorsInPhoenixAzPage() {
             <hr />
 
             <section>
-              <h2>Your Trusted Real Estate Resource for Phoenix, Arizona</h2>
-              <p>
-                Navigating the real estate market in a city as dynamic as
-                Phoenix requires a knowledgeable and dedicated partner. Whether
-                you&apos;re buying your first home, investing in commercial
-                property or preparing to sell a long-held residence, you deserve
-                guidance that&apos;s rooted in expertise, integrity and a deep
-                understanding of the local market. As a committed{" "}
-                <strong>Realtor in Phoenix AZ</strong> serving the Valley, my
-                mission is to provide every client with a seamless, transparent
-                and highly informed experience tailored to their needs.
-              </p>
-              <p>
-                Phoenix continues to rank as one of the most desirable and
-                fastest-growing metropolitan areas in the country. Its booming
-                job market, warm climate, diverse neighborhoods and steady
-                property values create an environment where both new and
-                seasoned buyers can thrive. Because the market changes quickly,
-                it&apos;s more important than ever to work with professionals
-                who understand local trends and how to leverage them for your
-                success. Among the many{" "}
-                <strong>Realtors in Phoenix, Arizona</strong>, I take pride in
-                offering strategic market insights, exceptional communication
-                and client-first service that goes far beyond the transaction.
-              </p>
+             
             </section>
 
             <hr />
 
             <section>
-              <h2>Why Phoenix Remains a Top Market for Real Estate</h2>
-              <p>
-                Phoenix real estate is known for its strong resale values, new
-                construction opportunities and diverse range of homes. From
-                starter homes to luxury estates, the Valley accommodates buyers
-                across every price point. Working with experienced{" "}
-                <strong>Realtors in Phoenix AZ</strong> gives you access to
-                accurate neighborhood comparisons, property data and negotiation
-                advantages—key elements that help you make confident decisions
-                whether you&apos;re buying or selling.
-              </p>
-              <p>
-                The city is also full of thriving communities with access to
-                top-rated schools, shopping centers, entertainment districts,
-                parks and major freeway systems. With ongoing development and a
-                growing corporate presence, Phoenix continues to be a
-                long-term, stable market for homeowners and investors alike. As
-                one of the dedicated{" "}
-                <strong>Realtors in Phoenix Arizona</strong>, I ensure my
-                clients stay ahead of these trends so they can capitalize on the
-                best opportunities available.
-              </p>
+              
             </section>
 
             <hr />
