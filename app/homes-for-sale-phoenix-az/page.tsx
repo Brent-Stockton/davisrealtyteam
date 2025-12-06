@@ -53,7 +53,7 @@ return (
 
                 <section>
                     <div className="section-1">
-                        <h3>1. New Construction Homes in Phoenix</h3>
+                        <h2>1. New Construction Homes in Phoenix</h2>
                         <p>For buyers seeking modern features, energy-efficient designs, and the latest architectural
                             styles, Phoenix is home to a booming construction market. The city’s rapid expansion has led
                             to dozens of new communities offering flexible floor plans, smart-home upgrades, and
