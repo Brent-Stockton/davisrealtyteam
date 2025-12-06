@@ -31,22 +31,22 @@ export default function RealtorsInPhoenixAzPage() {
       </section>
 
       {/* Inner SEO content section  */}
-      <section
-        style={{
-          padding: "40px 16px 60px",
-          background: "#f7f7f7",
-        }}
-      >
-     <div
-  className="seo-inner-page"
+     <section
   style={{
-    width: "90%";
-    maxWidth: "1280px",
-    margin: "0 auto",
-    background: "#ffffff",
-    padding: "32px 24px",
+    padding: "40px 16px 60px",
+    background: "#f7f7f7",
   }}
 >
+  <div
+    className="seo-inner-page"
+    style={{
+      width: "90%",
+      maxWidth: "1280px",
+      margin: "0 auto",
+      background: "#ffffff",
+      padding: "32px 24px",
+    }}
+  >
           <article>
             <header>
               <h1
