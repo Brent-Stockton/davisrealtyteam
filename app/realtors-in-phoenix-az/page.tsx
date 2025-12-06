@@ -97,7 +97,7 @@ export default function RealtorsInPhoenixAzPage() {
             <hr />
 
           <section>
-            <div className="section-">
+            <div className="section-4">
 <h2><strong>Expert Assistance for Home Sellers</strong></h2>
 <p>Selling a home in Phoenix requires a thoughtful strategy to attract qualified buyers and secure the highest possible value. Pricing, presentation, marketing, and timing all make a significant impact. As one of the <strong>Best Realtors in Phoenix</strong>, I offer a full suite of listing services designed to make your property stand out.</p>
 <p>These include:</p>
@@ -116,7 +116,7 @@ export default function RealtorsInPhoenixAzPage() {
 
             
 <section>
-<div className="section-">
+<div className="section-5">
        <h2><strong>Commercial Real Estate Expertise</strong></h2>
 <p>In addition to residential services, I also assist clients searching for or selling commercial properties. From office buildings and retail centers to industrial spaces and land opportunities, Phoenix continues to be a prime market for investors and business owners. Working with a reliable <strong>Commercial Realtor Phoenix</strong> ensures you have a professional who understands zoning, valuation, traffic counts, tenant occupancy, and long-term investment potential.</p>
 <p>Whether you’re purchasing your first commercial asset, expanding your portfolio, or looking to sell a property, I offer strategic guidance backed by detailed market assessments and proven negotiation skills.</p>     
