@@ -42,23 +42,24 @@ const App = () => {
 
         {/* Add home page content here */}
         <section id="home-content">
-          <div className="wrapper">
+          <div className="home-content-wrapper">
             <h2>Welcome to Davis Realty Team</h2>
-            <p>
+              <p>
               We are a husband-and-wife real estate team based in Phoenix, AZ,
               helping buyers and sellers across Phoenix, Scottsdale, Peoria and
               surrounding areas.
-            </p>
+              </p>
 
             <h3>Why work with us?</h3>
             <ul>
-              <li>Local experts who know every neighborhood in detail</li>
-              <li>Personalized guidance for first-time home buyers</li>
-              <li>Strong marketing strategy to sell your home faster</li>
+            <li>Local experts who know every neighborhood in detail</li>
+            <li>Personalized guidance for first-time home buyers</li>
+            <li>Strong marketing strategy to sell your home faster</li>
             </ul>
-          </div>
-        </section>
-        {/* ⬆️ Is section ke andar ka text aap apni marzi se change kar sakte ho */}
+            </div>
+          </section>
+
+        {/* Content Section End */}
 
         <section id="gallery">
           <Gallery />
