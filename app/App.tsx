@@ -51,11 +51,13 @@ const App = () => {
               </p>
 
             <h3>Why work with us?</h3>
-            <ul className="seo-inner-page">
+            <div className="seo-inner-page">
+            <ul>
             <li>Local experts who know every neighborhood in detail</li>
             <li>Personalized guidance for first-time home buyers</li>
             <li>Strong marketing strategy to sell your home faster</li>
             </ul>
+            </div>
             </div>
           </section>
 
