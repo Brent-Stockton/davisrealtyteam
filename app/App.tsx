@@ -46,7 +46,7 @@ const App = () => {
             <h1><strong>Your Trusted Residential & Commercial Properties Realtor in Phoenix, AZ</strong></h1>
              <p>When it comes to buying or selling property in one of the fastest-growing real estate markets in the country, having the right guidance makes all the difference. As a dedicated <strong>Residential &amp; Commercial Properties Realtor in Phoenix, AZ</strong>, my mission is to make your real estate journey smooth, informed, and successful—whether you’re stepping into the market for the first time, moving up to your dream home, investing, or preparing to sell. Phoenix and the surrounding Valley offer incredible opportunities, and I’m here to help you make the most of them.</p>
 
-            <h2><strong>Finding the Perfect Home in Phoenix</strong></h2>
+            <h2 text-xl md:text-2xl font-army text-[#ab7552] font-bold mb-4 md:mb-6 hover:text-white text-center><strong>Finding the Perfect Home in Phoenix</strong></h2>
  <div class="max-w-6xl mx-auto px-12 py-6"><div class="flex flex-col md:flex-row justify-between items-center md:items-start">
      <div class="flex space-x-4 mb-4 md:mb-0 md:w-1/3 justify-start">
 <p>Phoenix is known for its warm climate, diverse neighborhoods, and a booming job market. With so many options available, finding the right home can feel overwhelming—but that’s exactly where I step in. From tailored home searches to market expertise and full-service support, I take pride in helping clients discover the ideal fit for their lifestyle and budget.</p>
