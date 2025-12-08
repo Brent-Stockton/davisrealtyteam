@@ -8,46 +8,73 @@ import Hero from "@/Pages/Hero.tsx";
 import StickyNavbar from "@/Components/NavBar";
 
 const App = () => {
-  <Head>
-    <title>Davis Realty Team</title>
-    <meta
-      name="description"
-      content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
-    />
-
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="www.davisrealtyteam.com" />
-    <meta property="og:title" content="Davis Realty Team" />
-    <meta
-      property="og:description"
-      content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
-    />
-    <meta property="og:image" content="Your Image URL" />
-
-    <link rel="icon" href="/images/realty-logo.png" />
-  </Head>;
   return (
-    <main>
-      <StickyNavbar />
-      <section id="hero">
-        <Hero />
-      </section>
-      <section id="about">
-        <CallToAction />
-      </section>
-      <section>
-        <HomeContent />
-      </section>
-      <section id="gallery">
-        <Gallery />
-      </section>
-      <section id="contact">
-        <ContactForm />
-      </section>
-      <section id="contact">
-        <Footer />
-      </section>
-    </main>
+    <>
+      <Head>
+        <title>Davis Realty Team</title>
+        <meta
+          name="description"
+          content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
+        />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.davisrealtyteam.com" />
+        <meta property="og:title" content="Davis Realty Team" />
+        <meta
+          property="og:description"
+          content="The Davis Realty Team, a dynamic couple from Phoenix, AZ, dedicated to helping clients find their dream homes. With a passion for real estate and personalized service, they make buying and selling seamless and stress-free."
+        />
+        <meta property="og:image" content="Your Image URL" />
+
+        <link rel="icon" href="/images/realty-logo.png" />
+      </Head>
+
+      <main>
+        <StickyNavbar />
+
+        <section id="hero">
+          <Hero />
+        </section>
+
+        <section id="about">
+          <CallToAction />
+        </section>
+
+        {/* ✅ Yahan demo home page content */}
+        <section id="home-content">
+          <div className="wrapper">
+            <h2>Welcome to Davis Realty Team</h2>
+            <p>
+              We are a husband-and-wife real estate team based in Phoenix, AZ,
+              helping buyers and sellers across Phoenix, Scottsdale, Peoria and
+              surrounding areas.
+            </p>
+
+            <h3>Why work with us?</h3>
+            <ul>
+              <li>Local experts who know every neighborhood in detail</li>
+              <li>Personalized guidance for first-time home buyers</li>
+              <li>Strong marketing strategy to sell your home faster</li>
+            </ul>
+          </div>
+        </section>
+        {/* ⬆️ Is section ke andar ka text aap apni marzi se change kar sakte ho */}
+
+        <section id="gallery">
+          <Gallery />
+        </section>
+
+        <section id="contact">
+          <ContactForm />
+        </section>
+
+        {/* Footer ka id alag rakhna better hai */}
+        <section id="footer">
+          <Footer />
+        </section>
+      </main>
+    </>
   );
 };
+
 export default App;
