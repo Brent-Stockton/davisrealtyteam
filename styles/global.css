@@ -79,3 +79,5 @@ html {
   max-width: 1200px;    
   margin: 0 auto;     
 }
+#home-content { position: relative; background: #fff; margin: 0px;}
+#home-content p{ margin-bottom: 15px;}
