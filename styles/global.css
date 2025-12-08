@@ -88,6 +88,6 @@ html {
 #home-content p, .seo-inner-page p { 
   margin-bottom: 15px; 
 }
-h1, h2, h3, h4 { font-family: "Bebas Neue", sans-serif;}
+h1, h2, h3, h4 { font-family: "Bebas Neue", sans-serif; text-shadow: none;}
 .pageTitle{ font-family: "Bebas Neue", sans-serif; font-size: 40px; color: #AB7552;}
 .sectionTitle{font-family: "Bebas Neue", sans-serif; font-size: 30px; color: #AB7552;}
