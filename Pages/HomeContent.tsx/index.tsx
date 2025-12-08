@@ -24,9 +24,8 @@ const HomeContent = () => {
   }, []);
     return (
     <div style={{ padding: "20px" }}>
-      <h1>Window Size</h1>
-      <p>Width: {windowSize.width}px</p>
-      <p>Height: {windowSize.height}px</p>
+      <h1>Hello</h1>
+     
     </div>
     );
 };
