@@ -35,6 +35,9 @@ const App = () => {
       <section id="about">
         <CallToAction />
       </section>
+      <section>
+        <HomeContent />
+      </section>
       <section id="gallery">
         <Gallery />
       </section>
