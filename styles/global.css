@@ -79,5 +79,5 @@ html {
   max-width: 1200px;    
   margin: 0 auto;     
 }
-#home-content { position: relative; background: #fff; margin: 0px;}
+#home-content { position: relative; background: #fff; margin: 0px; padding: 50px 0px;}
 #home-content p{ margin-bottom: 15px;}
