@@ -43,14 +43,28 @@ const App = () => {
         {/* Add home page content here */}
         <section id="home-content">
           <div className="home-content-wrapper">
-            <h2>Your Trusted Residential & Commercial Properties Realtor in Phoenix, AZ</h2>
+            <h1><strong>Your Trusted Residential & Commercial Properties Realtor in Phoenix, AZ</strong></h1>
              <p>When it comes to buying or selling property in one of the fastest-growing real estate markets in the country, having the right guidance makes all the difference. As a dedicated <strong>Residential &amp; Commercial Properties Realtor in Phoenix, AZ</strong>, my mission is to make your real estate journey smooth, informed, and successful—whether you’re stepping into the market for the first time, moving up to your dream home, investing, or preparing to sell. Phoenix and the surrounding Valley offer incredible opportunities, and I’m here to help you make the most of them.</p>
 
-            <h3><strong>Finding the Perfect Home in Phoenix</strong></h3>
+            <h2><strong>Finding the Perfect Home in Phoenix</strong></h2>
+ <div class="max-w-6xl mx-auto px-12 py-6"><div class="flex flex-col md:flex-row justify-between items-center md:items-start">
+     <div class="flex space-x-4 mb-4 md:mb-0 md:w-1/3 justify-start">
 <p>Phoenix is known for its warm climate, diverse neighborhoods, and a booming job market. With so many options available, finding the right home can feel overwhelming—but that’s exactly where I step in. From tailored home searches to market expertise and full-service support, I take pride in helping clients discover the ideal fit for their lifestyle and budget.</p>
+
+     </div>
+     <div class="flex flex-col items-center space-y-4 md:space-y-0 md:space-x-4 mb-4 md:mb-0 md:w-1/3 justify-center mt-6  md:text-left">
 <p>If you're searching for <strong>New Homes for Sale in Phoenix</strong>, you’ll find a wide range of beautiful communities featuring modern designs, energy-efficient features, and flexible floor plans. I work directly with builders to make sure you understand your choices, upgrades, warranties, and the full buying process—protecting your interests every step of the way.</p>
+</div>
+<div class="text-xs md:text-sm md:text-right md:w-1/3 mt-6"> 
 <p>For those looking for high-end living, the city also boasts an impressive selection of <strong>Luxury Homes for Sale in Phoenix</strong>. Whether you're after breathtaking mountain views, stunning architecture, or upscale amenities like resort-style pools, smart home technology, or private outdoor living spaces, I can help you navigate these exclusive neighborhoods and negotiate the best value for your investment.</p>
-          <h3><strong>Options for Every Buyer</strong></h3>
+</div>
+    </div></div>
+
+            
+            
+            
+            
+            <h3><strong>Options for Every Buyer</strong></h3>
 <p>Phoenix isn’t just about single-family homes—buyers today have more options than ever. If you’re exploring affordable living or seasonal housing, there are plenty of <strong>Mobile Homes for Sale in Phoenix</strong> that offer comfort, flexibility, and community features without stretching your budget.</p>
 <p>Investors and growing families also love the many <strong>Multi-Family Homes for Sale in Phoenix</strong>, ideal for generating rental income or accommodating multi-generational living. These properties often sell quickly, and having a knowledgeable realtor who understands cap rates, rental demand, and ROI is essential in making a smart decision.</p>
             
