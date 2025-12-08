@@ -40,7 +40,7 @@ const App = () => {
           <CallToAction />
         </section>
 
-        {/* ✅ Yahan demo home page content */}
+        {/* Add home page content here */}
         <section id="home-content">
           <div className="wrapper">
             <h2>Welcome to Davis Realty Team</h2>
