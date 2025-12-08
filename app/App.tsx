@@ -51,7 +51,7 @@ const App = () => {
               </p>
 
             <h3>Why work with us?</h3>
-            <ul>
+            <ul className="seo-inner-page">
             <li>Local experts who know every neighborhood in detail</li>
             <li>Personalized guidance for first-time home buyers</li>
             <li>Strong marketing strategy to sell your home faster</li>
