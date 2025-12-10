@@ -84,9 +84,7 @@ const Hero = () => {
             <p className="font-primary text-white text-center text-[16px] md:text-[18px] max-w-[500px]">
               Guiding You Home with Heart and Expertise.
             </p>
-            <a href="mailto:davisrealtyteam77@gmail.com">davisrealtyteam77@gmail.com</a>
-            <a href="tel:+14808684069" class="hover:underline">480-868-4069</a>
-            <a
+             <a
               href="tel:+14808684069"
               className="hover:text-gray-300 transition duration-300"
             >
