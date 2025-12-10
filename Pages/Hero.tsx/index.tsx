@@ -84,12 +84,22 @@ const Hero = () => {
             <p className="font-primary text-white text-center text-[16px] md:text-[18px] max-w-[500px]">
               Guiding You Home with Heart and Expertise.
             </p>
+            <a href="mailto:davisrealtyteam77@gmail.com">davisrealtyteam77@gmail.com</a>
+            <a href="tel:+14808684069" class="hover:underline">480-868-4069</a>
             <a
-              href="#CTA"
+              href="tel:+14808684069"
               className="hover:text-gray-300 transition duration-300"
             >
               <button className="text-[16px] md:text-[20px] tracking-wider px-12 py-6 border-2 border-[#ab7552] text-[#ab7552] font-bold font-army rounded hover:bg-[#ab7552] hover:text-white transition duration-300 shadow-lg hover:scale-105">
-                About us
+                Call Now
+              </button>
+            </a>
+            <a
+              href="mailto:davisrealtyteam77@gmail.com"
+              className="hover:text-gray-300 transition duration-300"
+            >
+              <button className="text-[16px] md:text-[20px] tracking-wider px-12 py-6 border-2 border-[#ab7552] text-[#ab7552] font-bold font-army rounded hover:bg-[#ab7552] hover:text-white transition duration-300 shadow-lg hover:scale-105">
+                Email
               </button>
             </a>
           </div>
