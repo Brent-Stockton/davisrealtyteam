@@ -89,6 +89,8 @@ const Footer = () => {
           <div className="text-xs md:text-sm text-center md:text-right md:w-1/3 mt-6">
             <p>20100 N 51st Ave STE E510, Glendale, AZ 85308</p>
           </div>
+<a href="https://www.davisrealtyteam.com/realtors-in-phoenix-az">Realtors in Phoenix</a> | <a href="https://www.davisrealtyteam.com/homes-for-sale-phoenix-az">Homes for Sale Phoenix</a> | <a href="https://www.davisrealtyteam.com/first-time-homebuyer-phoenix-az">First Time Homebuyer Phoenix</a> |<a href="https://www.davisrealtyteam.com/realtors-in-peoria-az">Realtors in Peoria</a> |  <a href="https://www.davisrealtyteam.com/homes-for-sale-peoria-az"> Homes for Sale Peoria</a> | <a href="https://www.davisrealtyteam.com/homes-for-sale-anthem-az">Homes for Sale Anthem</a> | <a href="https://www.davisrealtyteam.com/realtors-in-surprise-az">Realtors in Surprise</a> | <a href="https://www.davisrealtyteam.com/homes-for-sale-surprise-az">Homes for Sale Surprise</a> | <a href="https://www.davisrealtyteam.com/realtors-in-scottsdale-az">Realtors in Scottsdale</a> | <a href="https://www.davisrealtyteam.com/homes-for-sale-scottsdale-az">Homes for Sale Scottsdale</a> | <a href="https://www.davisrealtyteam.com/homes-for-sale-gilbert-az">Homes for Sale Gilbert</a> | <a href="https://www.davisrealtyteam.com/realtors-in-gilbert-az">Realtors in Gilbert</a> | <a href="https://www.davisrealtyteam.com/areas-we-serve">Areas We Serve</a>
+          
         </div>
       </div>
     </footer>
