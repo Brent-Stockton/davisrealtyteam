@@ -52,7 +52,7 @@ html {
 
 /* SEO inner page layout */
 .seo-inner-page {
-  font-size: 1rem;
+  font-size: 1rem;color: #000;
   line-height: 1.7;
 }
 
@@ -81,7 +81,7 @@ html {
 }
 #home-content { 
   position: relative; 
-  background: #fff; 
+  background: #fff; color: #000;
   margin: 0px; 
   padding: 50px 0px;
 }
