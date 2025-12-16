@@ -64,7 +64,7 @@ const StickyNavbar = () => {
               Home
             </a>
             <a
-              href="#about"
+              href="https://www.davisrealtyteam.com/#about"
               className="block py-2 md:py-0 md:inline hover:text-white md:hover:scale-110 transition duration-300 md:transition-none"
             >
               About Us
