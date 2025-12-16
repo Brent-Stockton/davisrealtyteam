@@ -71,7 +71,7 @@ const StickyNavbar = () => {
             } flex-col md:flex-row md:flex space-x-0 md:space-x-9 text-[#ab7552] font-army text-[25px] md:text-[25px] absolute md:relative top-16 md:top-0 left-0 w-full md:bg-transparent p-6 md:p-0 md:items-center md:w-auto bg-[#c3c2bd]`}
           >
             <a
-              href="#hero"
+              href="https://www.davisrealtyteam.com/#hero"
               onClick={() => setIsMenuOpen(false)}
               className="block py-2 md:py-0 md:inline hover:text-white md:hover:scale-110 transition duration-300 md:transition-none"
             >
@@ -87,7 +87,7 @@ const StickyNavbar = () => {
             </a>
 
             <a
-              href="#gallery"
+              href="https://www.davisrealtyteam.com/#gallery"
               onClick={() => setIsMenuOpen(false)}
               className="block py-2 md:py-0 md:inline hover:text-white md:hover:scale-110 transition duration-300 md:transition-none"
             >
